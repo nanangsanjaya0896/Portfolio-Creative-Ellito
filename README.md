@@ -27,3 +27,21 @@ DataLayer siap untuk `booking_start`, `lead_form_submit`, `whatsapp_click`, `pho
 
 ## Aksesibilitas & performa
 Navigasi anchor, menu mobile, label form, native validation, dialog keyboard, FAQ native details, reduced-motion, hero eager dan CSS tanpa framework UI. Google Fonts memiliki fallback sans-serif.
+
+## Struktur section sesuai referensi
+1. Headline (`#headline`, dalam hero)
+2. Sub-headline (`#sub-headline`, dalam hero)
+3. CTA hero (`#cta-hero`)
+4. Social proof (`#social-proof`; menunggu bukti terverifikasi)
+5. Problem identification (`#kenapa`)
+6. Your offer (`#layanan`)
+7. Product features (`#fitur`; terpisah dari kartu penawaran)
+8. Product benefits (`#manfaat`)
+9. Testimonial (`#cerita`; saat ini contoh situasi berlabel, bukan ulasan asli)
+10. Bonus (`#bonus`)
+11. Founder's note (`#catatan-pemilik`)
+12. CTA bawah dan formulir (`#booking`)
+13. Trust / proses kerja (`#trust`)
+14. FAQ (`#faq`)
+
+Periksa urutan, keunikan ID, dan target navigasi: `node scripts/check-structure.mjs`.

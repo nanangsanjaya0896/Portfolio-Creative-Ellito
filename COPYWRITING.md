@@ -4,11 +4,11 @@ Dokumen editorial siap diedit. Terapkan perubahan ke index.html secara manual. H
 Rumah sejuk, keluarga nyaman. Melayani Karawang & sekitarnya | Senin–Sabtu, 08.00–17.00* 
 
 ## HEADER
-❋ sejuk rumah AC BERSIH. RUMAH NYAMAN. Layanan Kenapa kami? Cerita pelanggan FAQ 
+❋ sejuk rumah AC BERSIH. RUMAH NYAMAN. Layanan Kenapa kami? Testimoni FAQ 
 Jadwalkan servis ↗ 
 ☰ 
 
-## HERO CONTAINER
+## HERO
 ✳ SPESIALIS AC RUMAHAN DI KARAWANG 
 AC kembali dingin. 
 Rumah tetap bersih. 
@@ -16,10 +16,10 @@ Keluarga nyaman.
 Cuci & servis AC tanpa bikin repot. Kami bantu rawat AC rumah Anda, dengan jadwal yang jelas dan biaya yang dibicarakan di awal. 
 ◉ Booking via WhatsApp ↗ Lihat layanan ↓ ✓ Harga jelas di awal ✓ Area kerja dirapikan ✓ Jadwal dikonfirmasi ⌂ Untuk rumah, bukan sekadar ruangan. Dari rumah pertama sampai rumah tempat keluarga tumbuh. SEJUKNYA SAMPAI KE RUMAH ❋ Nyaman lagi, setiap hari. AC terawat. Waktu keluarga tak terganggu. ✓ Ilustrasi suasana rumah 
 
-## BRAND-STRIP
-AC di rumah Anda? 
-Yuk, ceritakan merek & tipenya. DAIKIN Panasonic SHARP LG SAMSUNG Penanganan menyesuaikan 
-tipe & kondisi unit 
+## SOCIAL-PROOF
+BUKTI LAYANAN, BUKAN SEKADAR JANJI 
+Kepercayaan tumbuh dari hasil nyata. 
+Ulasan dan dokumentasi pekerjaan akan ditampilkan setelah diverifikasi dan mendapat izin pelanggan. Saat ini, belum ada rating atau jumlah pelanggan yang kami publikasikan. ◎ Ruang untuk bukti pelanggan Foto pekerjaan · Ulasan asli · Area layanan Belum tersedia dalam versi demo 
 
 ## KENAPA
 KENALI TANDA-TANDANYA 
@@ -48,30 +48,43 @@ Biaya disepakati dulu, baru kami kerjakan.
 ≋ 01 / PERAWATAN RUTIN 
 Cuci AC Rumah 
 Untuk AC yang mulai kurang segar atau sudah waktunya dibersihkan. Estimasi mulai Rp75.000 / unit 
-Cuci filter & bagian pendingin indoor 
-Bersihkan unit outdoor yang terjangkau 
-Cek aliran pembuangan air 
-Uji dingin & rapikan area kerja 
 Pilih cuci AC ↗ 
 PALING PAS UNTUK AC KURANG DINGIN ⌁ 02 / CEK + PERAWATAN 
 Servis AC Rumah 
 Cari penyebabnya dulu. Tidak semua AC kurang dingin perlu tambah freon. Estimasi pemeriksaan mulai Rp100.000 / unit 
-Pemeriksaan fungsi & suhu AC 
-Cek tekanan refrigeran bila diperlukan 
-Periksa sumber bocor atau suara 
-Penjelasan temuan & estimasi perbaikan 
 Pilih servis AC ↗ 
 ⌂ 03 / SEKALIAN SATU RUMAH 
 Paket Sejuk Serumah 
 Jadwalkan perawatan 2–4 AC sekaligus. Satu kunjungan, lebih praktis. Untuk 2 unit atau lebih Minta penawaran 
-Pembersihan indoor & outdoor 
-Cek kondisi tiap unit AC 
-Jadwal kunjungan dalam satu hari 
-Catatan perawatan per unit 
 Tanya paket rumah ↗ 
 ⓘ Harga merupakan contoh estimasi untuk AC split rumah. Harga final, akses outdoor, suku cadang, dan cakupan pengerjaan dikonfirmasi sebelum booking. 
 
-## BENEFITS CONTAINER
+## FITUR
+FITUR LAYANAN · APA YANG DIKERJAKAN? 
+Bukan hanya disemprot. 
+Setiap bagian diperhatikan. 
+Cakupan berikut adalah rancangan layanan. Pekerjaan final menyesuaikan kondisi unit dan kesepakatan sebelum kunjungan. 
+01 / CUCI AC RUMAH 
+Bersihkan jalur udara & air 
+Cuci filter dan evaporator, bagian indoor yang membantu mendinginkan udara. 
+Bersihkan outdoor jika posisinya aman dan terjangkau. 
+Cek saluran pembuangan agar air tidak tertahan. 
+Lindungi area sekitar AC, uji fungsi, lalu rapikan. 
+02 / SERVIS AC RUMAH 
+Periksa sumber keluhannya 
+Cek fungsi, suhu, serta gejala bocor atau suara tidak biasa. 
+Periksa tekanan refrigeran bila memang diperlukan. 
+Jelaskan temuan dengan bahasa yang mudah dipahami. 
+Konfirmasi biaya perbaikan dan suku cadang sebelum dikerjakan. 
+03 / PAKET SEJUK SERUMAH 
+Rawat beberapa AC sekaligus 
+Pembersihan indoor dan outdoor sesuai akses tiap unit. 
+Pemeriksaan kondisi masing-masing AC, bukan disamaratakan. 
+Rencanakan urutan kerja untuk 2–4 unit dalam satu kunjungan. 
+Catat hasil pemeriksaan dan kebutuhan perawatan tiap unit. 
+Saat chat, sebutkan merek dan tipe AC Anda: Daikin, Panasonic, Sharp, LG, atau Samsung. Penanganan perlu dikonfirmasi sesuai model; bukan klaim kemitraan resmi. 
+
+## MANFAAT
 YANG PENTING, HASILNYA TERASA 
 Bukan cuma AC yang bersih. 
 Anda juga lebih tenang. 
@@ -86,11 +99,11 @@ Lebih paham AC sendiri
 Kami jelaskan kondisi unit dan cara merawatnya. Anda tahu mana yang perlu, mana yang bisa ditunda. 
 
 ## CERITA
-CERITA DARI RUMAH KE RUMAH 
-Keluhannya mungkin 
-mirip dengan di rumah Anda. 
-Contoh situasi layanan, bukan ulasan pelanggan. 
-Testimoni terverifikasi akan ditambahkan setelah tersedia. 
+TESTIMONI · CERITA DARI RUMAH KE RUMAH 
+Pengalaman pelanggan, 
+bukan kata kami saja. 
+Testimoni pelanggan terverifikasi belum tersedia. 
+Kartu di bawah adalah contoh situasi layanan, bukan kutipan pelanggan nyata. 
 TELUKJAMBE TIMUR · RUMAH CLUSTER 
 “AC kamar anak bau saat baru dinyalakan.” 
 Pemeriksaan dimulai dari filter, bagian pendingin, dan saluran air. Setelah sumbernya jelas, baru ditentukan bagian yang perlu dibersihkan. 01 Fokus penanganan Kebersihan & aliran udara 
@@ -107,7 +120,7 @@ Jangan tunggu gerah untuk ingat cuci AC.
 Minta pengingat WhatsApp untuk cek jadwal perawatan berikutnya. Gratis, atas persetujuan Anda. 
 Saya mau diingatkan ↗ 
 
-## FOUNDER CONTAINER
+## CATATAN-PEMILIK
 ❋ 
 Kerja rapi. 
 Bicara jujur. 
@@ -116,22 +129,6 @@ Masuk ke rumah Anda
 itu soal kepercayaan. 
 Anda berhak tahu apa yang dikerjakan pada AC Anda. Karena itu, kami ingin memulai setiap kunjungan dengan mendengar keluhan, memeriksa unit, lalu menjelaskan biaya sebelum pekerjaan dimulai. 
 Sesederhana melindungi area dekat sofa, tidak meninggalkan air di lantai, dan menjelaskan kapan AC perlu dirawat lagi. Hal-hal kecil ini yang kami jadikan standar. Salam sejuk, Tim Sejuk Rumah Konsep komitmen layanan — dikonfirmasi pemilik sebelum publikasi. 
-
-## PROCESS CONTAINER
-DARI CHAT SAMPAI KEMBALI NYAMAN 
-Anda cerita. Kami bantu urus. 
-01 
-Chat & ceritakan 
-Kirim area, jumlah AC, dan keluhannya. Foto unit juga boleh. 
-02 
-Sepakati jadwal 
-Konfirmasi estimasi, alamat, dan waktu kunjungan yang cocok. 
-03 
-Cek & kerjakan 
-Teknisi cek kondisi. Tambahan pekerjaan menunggu persetujuan Anda. 
-04 
-Tes & rapikan 
-Uji AC bersama, rapikan area, lalu jelaskan hasil pengerjaan. 
 
 ## BOOKING
 SATU CHAT MENUJU RUMAH LEBIH SEJUK 
@@ -149,6 +146,22 @@ Keluhan / jumlah AC (opsional)
 Lanjut ke WhatsApp ↗ Data hanya diteruskan lewat pesan yang Anda kirim. 
 Booking belum pasti sampai dikonfirmasi tim. 
 
+
+## TRUST
+TRUST · PROSES KERJA YANG BISA ANDA CEK 
+Anda cerita. Kami bantu urus. 
+01 
+Chat & ceritakan 
+Kirim area, jumlah AC, dan keluhannya. Foto unit juga boleh. 
+02 
+Sepakati jadwal 
+Konfirmasi estimasi, alamat, dan waktu kunjungan yang cocok. 
+03 
+Cek & kerjakan 
+Teknisi cek kondisi. Tambahan pekerjaan menunggu persetujuan Anda. 
+04 
+Tes & rapikan 
+Uji AC bersama, rapikan area, lalu jelaskan hasil pengerjaan. 
 
 ## FAQ
 BIAR TIDAK ADA YANG MENGGANJAL 

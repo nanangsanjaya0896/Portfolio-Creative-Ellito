@@ -1,0 +1,12 @@
+import assert from 'node:assert/strict';
+import { readFileSync } from 'node:fs';
+const html = readFileSync('index.html', 'utf8');
+const expected = ['hero', 'social-proof', 'kenapa', 'layanan', 'fitur', 'manfaat', 'cerita', 'bonus', 'catatan-pemilik', 'booking', 'trust', 'faq'];
+const actual = [...html.matchAll(/<section\b[^>]*\bid="([^"]+)"/g)].map(match => match[1]);
+assert.deepEqual(actual, expected);
+assert(html.indexOf('id="headline"') < html.indexOf('id="sub-headline"'));
+assert(html.indexOf('id="sub-headline"') < html.indexOf('id="cta-hero"'));
+const ids = [...html.matchAll(/\bid="([^"]+)"/g)].map(match => match[1]);
+assert.equal(ids.length, new Set(ids).size, 'IDs must be unique');
+for (const [, anchor] of html.matchAll(/href="#([^"]+)"/g)) assert(ids.includes(anchor), `Missing anchor ${anchor}`);
+console.log('PASS: 14 structure elements in reference order, unique IDs, valid navigation anchors.');
